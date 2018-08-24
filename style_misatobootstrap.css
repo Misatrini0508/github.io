@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  background: url('rawpixel-653764-unsplash.jpg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Patua One', cursive;
+  font-weight: bolder;
+}
+
+.container {
+  margin-top: 200px;
+}
+
+h1 {
+  color: orange;
+  /* font-size: 3rem; */
+  text-shadow: -5px -2px black;
+}
+
+h3 {
+  color: white;
+  text-shadow: -3px -2px grey;
+}
+
+
+.btn-info {
+  width: 200px;
+  margin: 0 auto;
+  color: white;
+  border-radius: 20px;
+  border: 1px solid limegreen;
+}
+
+.btn-info:hover {
+  background-color: #C2F0FB;
+  border-color: lightgreen;
+}
